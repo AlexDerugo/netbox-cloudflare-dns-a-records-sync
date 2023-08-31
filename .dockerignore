@@ -1,0 +1,6 @@
+.git
+.cache
+.gitlab-ci.yml
+*.md
+.infra
+venv
